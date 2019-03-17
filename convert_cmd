@@ -1,0 +1,1 @@
+convert $(ls -1v) -resize  874x1240  -sharpen 20x20  ../output.pdf
